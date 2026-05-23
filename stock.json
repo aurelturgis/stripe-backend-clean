@@ -81,6 +81,15 @@
     "weight": 637
   },
     {
+    "id": "HASU",
+    "name": "HASU",
+    "price": 9000,
+    "image": "assets/images/epoxy/hasu2.png",
+    "stock": 1,
+    "sold": false,
+    "weight": 224
+  },
+    {
     "id": "LULU",
     "name": "LULU'S FAMILY",
     "price": 9000,
@@ -97,15 +106,6 @@
     "stock": 1,
     "sold": false,
     "weight": 407
-  },
-  {
-    "id": "HASU",
-    "name": "HASU",
-    "price": 9000,
-    "image": "assets/images/epoxy/hasu2.png",
-    "stock": 1,
-    "sold": false,
-    "weight": 224
   },
   {
     "id": "NISHIKIGOI",
